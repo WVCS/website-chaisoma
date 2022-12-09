@@ -5,11 +5,21 @@ body{
 h3 {
   color: lavender;
   text-align: center;
-  font-size: 50px;
+  font-size: 70px;
   
 }
 img{
   width: 20%
   
     
+}
+li{
+  display: inline;
+  padding: 15px
+
+}
+a{
+  text-decoration: lavender;
+  color: lavender;
+
 }
